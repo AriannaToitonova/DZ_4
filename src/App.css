@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
+.active {
+  width: 500px;
+  box-sizing: border-box;
+  padding: 20px;
+  background: #65757580;
+  margin: 0 auto;
+  color: white;
+  border-radius: 15px;
+}
+.inActive {
+  display: none;
+}
